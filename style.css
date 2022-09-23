@@ -1,0 +1,23 @@
+* {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    width: 1100px;
+    margin: auto;
+    position: relative;
+}
+
+.logo a {
+    font-size: 50px;
+    font-weight: 800;
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+    color: #364f6b;
+}
